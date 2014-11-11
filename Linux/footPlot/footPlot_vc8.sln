@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{31E894CE-327E-43E4-A01F-E15A7980231E}") = "footPlotComp", "footPlotComp_vc8.vcproj", "{8793DF95-C479-42DA-9ED5-A2FB8705018D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{31E894CE-327E-43E4-A01F-E15A7980231E}") = "footPlot", "footPlot_vc8.vcproj", "{ACEDD352-291F-4C39-881E-0B668CAC97D0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8793DF95-C479-42DA-9ED5-A2FB8705018D}.Release|Win32.ActiveCfg = Release|Win32
+		{8793DF95-C479-42DA-9ED5-A2FB8705018D}.Release|Win32.Build.0   = Release|Win32
+		{8793DF95-C479-42DA-9ED5-A2FB8705018D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8793DF95-C479-42DA-9ED5-A2FB8705018D}.Debug|Win32.Build.0   = Debug|Win32
+		{ACEDD352-291F-4C39-881E-0B668CAC97D0}.Release|Win32.ActiveCfg = Release|Win32
+		{ACEDD352-291F-4C39-881E-0B668CAC97D0}.Release|Win32.Build.0   = Release|Win32
+		{ACEDD352-291F-4C39-881E-0B668CAC97D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACEDD352-291F-4C39-881E-0B668CAC97D0}.Debug|Win32.Build.0   = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
